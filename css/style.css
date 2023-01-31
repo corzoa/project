@@ -43,6 +43,15 @@ p {
 .header__flex {
   height: 100%;
   padding: 0 20px;
+}
+/* Footer */
+.footer {
+  height: 150px;
+  background-color: var(--secondary-color);
+}
+.footer__flex {
+  padding: 0 20px;
+  height: 100%;
   display: flex;
   flex-flow: row nowrap;
   justify-content: space-between;
@@ -52,4 +61,8 @@ p {
   padding: 5px 10px;
   border-radius: var(--btn-radius);
   transition: all 0.3s ease;
+}
+.menu__link {
+  padding: 5px 10px;
+  border-radius: var(--btn-radius);
 }
