@@ -35,3 +35,21 @@ p {
   font-size: 1rem;
   padding-bottom: 10px;
 }
+
+/* Footer */
+.footer{
+  height: 150px;
+  background-color: var(--secondary-color);
+}
+.footer__flex{
+  padding: 0 20px;
+  height: 100%;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu__link{
+  padding: 5px 10px;
+  border-radius: var(--btn-radius);
+}
