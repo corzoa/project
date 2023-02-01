@@ -8,3 +8,4 @@ Esta es solo una prueba para crear un README.md
 
 cambios de ejemplo para probar un nuevo comando de platzi
 Se incluye mas texto de prueba
+Este texto esta disponible para toda la gentee
